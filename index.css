@@ -1,0 +1,46 @@
+ul{
+    list-style-type: none;
+    float:right
+}
+li{
+    display:inline;
+    justify-content: space-between;
+    margin: 17px;
+    color: #fff;
+}
+.nav{
+    display: inline-flex;
+}
+.nav p{
+padding-top: 20px;
+
+}
+nav{
+    background-color: rgba(255, 255,255 0.2)
+}
+.hot{
+    background-color:#F19201;
+}
+.hy{
+    color:#F19201;
+}
+h2{
+    max-width: 350px;
+    color: #fff;
+}
+button{
+    color:#fff;
+    background-color: #F19201;
+    font-size: 25px;
+    border: none;
+   
+}
+.header{
+    background-image: url("images/image2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.out{
+    padding: 0 30px;
+}
