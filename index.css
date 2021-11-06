@@ -44,3 +44,9 @@ button{
 .out{
     padding: 0 30px;
 }
+.service h3{
+    text-align: center;
+    color: #F19201;
+    font-size: 30px;
+    text-transform: capitalize;
+}
