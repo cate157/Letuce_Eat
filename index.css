@@ -130,6 +130,17 @@ button{
   .phone{
       text-align: center;
   }
+  .phone p{
+      max-width: 500px;
+      margin-left: 30%;
+  }
+  .kc{
+      padding-right:  150px;
+      max-width: 700px;
+
+  }
+
+
 
 
 
