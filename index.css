@@ -114,9 +114,9 @@ button{
   .mine{
       display: flex;
       float: left;
-      justify-content: space-between;
-      margin: 20px;
-      position: relative;
+      /* justify-content: space-between; */
+      /* margin: 20px; */
+      /* position: relative; */
   }
   .mary h1,h4,h5{
       color: white;
@@ -127,5 +127,9 @@ button{
       color: white;
       padding: 0 30px;
   }
+  .phone{
+      text-align: center;
+  }
+
 
 
