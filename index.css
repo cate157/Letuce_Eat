@@ -93,7 +93,39 @@ button{
   }
   .mine img{
     padding-top: 30px;
+
+  }
+  .mary {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 52%;
+    background-color: black;
+    height: auto;
+    
   }
   
+  .mary:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  .mine{
+      display: flex;
+      float: left;
+      justify-content: space-between;
+      margin: 20px;
+      position: relative;
+  }
+  .mary h1,h4,h5{
+      color: white;
+      text-align: center;
+      padding: 0 30px;
+  }
+  .her{
+      color: white;
+      padding: 0 30px;
+  }
 
 
